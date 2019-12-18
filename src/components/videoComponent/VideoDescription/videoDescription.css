@@ -1,0 +1,63 @@
+* {
+  outline: 0;
+}
+.btns-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 15%;
+  background-image: linear-gradient(
+    to right top,
+    #594b31,
+    #50533c,
+    #4a5a4b,
+    #4d5e59,
+    #566162
+  );
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  outline: none;
+}
+.devTextContainer {
+  height: 87%;
+  overflow-y: scroll;
+}
+.divStyle {
+  height: 350px;
+  outline: "none";
+}
+.btns-container button {
+  margin: 0 5px;
+  text-transform: capitalize;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.devTextContainer {
+  height: 85%;
+  overflow-y: scroll;
+}
+
+.div-text {
+   
+}
+.devTextContainer div p {
+  width: 90%;
+  height: 100%;
+  margin: 7px auto;
+  text-align: center;
+  font-size: 15px;
+  font-family: inherit;
+  font-weight: 500;
+}
+h2 {
+  text-align: center;
+}
+
+.show-text{
+  
+}
+.show-p {
+  text-align: center;
+  padding: 6px;
+  color: tomato;
+}

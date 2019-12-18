@@ -1,0 +1,55 @@
+﻿WEBVTT
+
+00:00:02.400 --> 00:00:04.970
+welcome to a number of important Marshall in this course
+
+00:00:05.220 --> 00:00:09.810
+testing react apps not with testing here I don't mean
+
+00:00:09.840 --> 00:00:13.730
+us manually clicking around our application we already do that
+
+00:00:13.730 --> 00:00:17.990
+constantly while developing it we've testing here I mean writing
+
+00:00:18.500 --> 00:00:21.510
+automated tests and now here's something important what to what
+
+00:00:21.510 --> 00:00:26.370
+I'm interrogatory of this module testing is a complex topic
+
+00:00:26.410 --> 00:00:29.450
+and is actually a huge enough topic to make up
+
+00:00:29.450 --> 00:00:33.220
+an entire records just on its own this is not
+
+00:00:33.580 --> 00:00:37.150
+a testing in general introduction and it's also not a
+
+00:00:37.150 --> 00:00:41.770
+complete reacts testing guide like mort you'll instead I will
+
+00:00:41.770 --> 00:00:47.520
+introduce you into writing units tests for react applications build
+
+00:00:47.520 --> 00:00:50.830
+with create react app and that can then be something
+130
+00:00:50,830 --> 00:00:54,0
+you build up on ward which helps you apply your
+140
+00:00:54,0 --> 00:00:57,430
+general Java script testing all that you already have or
+
+00:00:57.430 --> 00:01:00.780
+gabber in our resources with that out of the way
+
+00:01:01.200 --> 00:01:04.820
+let's dive into what testing exactly is in the next
+
+00:01:04.820 --> 00:01:08.860
+lecture and then learn how we can rights tests for
+
+00:01:08.890 --> 00:01:10.490
+our react application
